@@ -1,5 +1,7 @@
 # Sistema de Controle de Estoque Simplificado (SCES)
 
+Alunos: Matheus Kruger e Victor Roberti
+
 Este projeto consiste em um Sistema de Controle de Estoque Simplificado desenvolvido em Java.  
 O objetivo principal é aplicar práticas de desenvolvimento ágil, integração contínua e gerenciamento de mudanças.
 
