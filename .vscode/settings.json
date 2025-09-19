@@ -1,0 +1,14 @@
+{
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-21",
+            "path": "C:\\Program Files\\Eclipse Adoptium\\jdk-21.0.7.6-hotspot",
+            "default": true
+        }
+    ],
+    "java.project.sourcePaths": ["src/main/java"],
+    "java.project.outputPath": "target/classes",
+    "java.test.sourcePaths": ["src/test/java"],
+    "java.test.outputPath": "target/test-classes",
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
